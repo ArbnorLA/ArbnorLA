@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArbnorLA
-- 👀 I’m interested in Pussy
+- 👀 I’m interested in .NET
 - 🌱 I’m currently learning JavaScript & C#
-- 💞️ I’m looking to collaborate on Orgi
+- 💞️ I’m looking for an intership..
 - 📫 How to reach me Email "al55544@hotmail.com"
 
 <!---
