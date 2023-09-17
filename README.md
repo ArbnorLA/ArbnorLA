@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArbnorLA
-- 👀 I’m interested in .NET
-- 🌱 I’m currently learning JavaScript & C#
-- 💞️ I’m looking for an intership..
+- 👀 I’m interested in Development
+- 🌱 I’m currently working JavaScript & React.Js
+- 💞️ I’m looking for challenges
 - 📫 How to reach me Email "al55544@hotmail.com"
 
 <!---
